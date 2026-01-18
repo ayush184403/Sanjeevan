@@ -1,0 +1,7 @@
+{
+  "name": "Sanjeevan",
+  "description": "A location-centric emergency response platform connecting distress callers to care homes, medical facilities, and volunteers instantly.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
