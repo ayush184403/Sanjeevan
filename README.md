@@ -1,2 +1,2 @@
 # Sanjeevan
-Location Centric Emergency response system
+Location Centric Emergency response platform
